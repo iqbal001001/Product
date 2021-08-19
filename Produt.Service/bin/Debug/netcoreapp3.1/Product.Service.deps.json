@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Product.Service/1.0.0": {
+        "dependencies": {
+          "Product.Domain": "1.0.0",
+          "Product.RepositoryInterface": "1.0.0",
+          "Product.ServiceInterface": "1.0.0"
+        },
+        "runtime": {
+          "Product.Service.dll": {}
+        }
+      },
+      "Product.Domain/1.0.0": {
+        "runtime": {
+          "Product.Domain.dll": {}
+        }
+      },
+      "Product.RepositoryInterface/1.0.0": {
+        "dependencies": {
+          "Product.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Product.RepositoryInterface.dll": {}
+        }
+      },
+      "Product.ServiceInterface/1.0.0": {
+        "dependencies": {
+          "Product.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Product.ServiceInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product.RepositoryInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product.ServiceInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

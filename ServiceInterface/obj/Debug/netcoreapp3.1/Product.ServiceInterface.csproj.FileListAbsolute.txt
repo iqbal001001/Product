@@ -1,0 +1,12 @@
+C:\Dev\Product\ServiceInterface\bin\Debug\netcoreapp3.1\Product.ServiceInterface.deps.json
+C:\Dev\Product\ServiceInterface\bin\Debug\netcoreapp3.1\Product.ServiceInterface.dll
+C:\Dev\Product\ServiceInterface\bin\Debug\netcoreapp3.1\Product.ServiceInterface.pdb
+C:\Dev\Product\ServiceInterface\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Dev\Product\ServiceInterface\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.csprojAssemblyReference.cache
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.AssemblyInfoInputs.cache
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.AssemblyInfo.cs
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.csproj.CoreCompileInputs.cache
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.csproj.CopyComplete
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.dll
+C:\Dev\Product\ServiceInterface\obj\Debug\netcoreapp3.1\Product.ServiceInterface.pdb

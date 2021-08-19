@@ -1,0 +1,12 @@
+C:\Dev\Product\Product.RepositoryInterface\bin\Debug\netcoreapp3.1\Product.RepositoryInterface.deps.json
+C:\Dev\Product\Product.RepositoryInterface\bin\Debug\netcoreapp3.1\Product.RepositoryInterface.dll
+C:\Dev\Product\Product.RepositoryInterface\bin\Debug\netcoreapp3.1\Product.RepositoryInterface.pdb
+C:\Dev\Product\Product.RepositoryInterface\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Dev\Product\Product.RepositoryInterface\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.csprojAssemblyReference.cache
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.AssemblyInfoInputs.cache
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.AssemblyInfo.cs
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.csproj.CoreCompileInputs.cache
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.csproj.CopyComplete
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.dll
+C:\Dev\Product\Product.RepositoryInterface\obj\Debug\netcoreapp3.1\Product.RepositoryInterface.pdb
